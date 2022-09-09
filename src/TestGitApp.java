@@ -6,6 +6,6 @@ public class TestGitApp {
         return "Joshua";
     }
     private String getAge_qishuai(){
-        return "19";
+        return "15";
     }
 }
